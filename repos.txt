@@ -1,8 +1,0 @@
-ale/url = https://github.com/w0rp/ale.git
-ale/url = https://github.com/scrooloose/nerdtree.git
-ale/url = https://github.com/ajh17/spacegray.vim
-ale/url = https://github.com/godlygeek/tabular
-ale/url = https://github.com/vim-airline/vim-airline
-ale/url = git://github.com/airblade/vim-gitgutter.git
-ale/url = https://github.com/terryma/vim-multiple-cursors
-
