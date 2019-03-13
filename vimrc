@@ -5,7 +5,7 @@ syntax on
 execute pathogen#infect()
 
 " Do the mouse clicky
-set mouse=a
+"set mouse=a
 
 " 2 space tabs
 set tabstop=2
