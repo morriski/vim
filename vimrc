@@ -4,9 +4,6 @@ syntax on
 
 execute pathogen#infect()
 
-" Do the mouse clicky
-"set mouse=a
-
 " 2 space tabs
 set tabstop=2
 set shiftwidth=2
@@ -18,6 +15,9 @@ set expandtab
 set number
 
 set laststatus=2
+
+" Tell simpylfold to fold on indent
+set foldmethod=indent
 
 " ctrl+z opens nerd tree
 map <C-z> :NERDTreeToggle<CR>
